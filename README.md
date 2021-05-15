@@ -61,4 +61,4 @@
 
 </div>
 
-<div> Made with <a href="https://profilinator.rishav.dev/">Github Profilinator</a></div>
+<div align="center"> Made with <a href="https://profilinator.rishav.dev/">Github Profilinator</a></div>
