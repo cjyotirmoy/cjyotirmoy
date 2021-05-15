@@ -1,4 +1,8 @@
-### <div align="center">I'm Jyotirmoy C. , a learning developer,  graduating in 2021 😸</div>  
+<!--### <div align="center">I'm Jyotirmoy C. , a learning developer,  graduating in 2021 😸</div>  -->
+<div align="center">
+  <img src="header.png"/>
+ </div>
+           
   
 
 - 🔭 I’m currently working on making my own home server: pengoinHome.  
@@ -57,3 +61,4 @@
 
 </div>
 
+<div> Made with <a href="https://profilinator.rishav.dev/">Github Profilinator</a></div>
