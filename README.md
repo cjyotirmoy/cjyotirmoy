@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on making my own home server: pengoinHome.  
   
 
-- 📖 I’m currently learning ReactJS and docker.  
+- 📖 I’m currently learning JAVA and docker.  
   
 
 - 🧞 Proper indentation makes my heart melt.  
